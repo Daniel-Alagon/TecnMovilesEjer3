@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ACTIVIDAD3</string>
+
+    <string-array name="tipos_emergencia">
+        <item>Incendio</item>
+        <item>Accidente</item>
+        <item>Robo</item>
+        <item>Otro</item>
+    </string-array>
+
+    <string-array name="prioridades">
+        <item>Alta</item>
+        <item>Media</item>
+        <item>Baja</item>
+    </string-array>
+</resources>
